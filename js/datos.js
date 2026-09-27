@@ -6,7 +6,7 @@ window.TARJETA = {
   telefono: "914 680 131",
   correo: "pilar.jimenez@cir62.com",
   web: "https://www.cir62.com/",
-  urlPublica: "", // Después de publicar: pega aquí la dirección completa de esta tarjeta, con https://
+  urlPublica: "https://pijice.github.io/Tarjeta-Visita-Pilar-Jim-nez-Cebri-n/", // Después de publicar: pega aquí la dirección completa de esta tarjeta, con https://
   descripcion: "", // Opcional: una breve presentación profesional
   enlacesAdicionales: [
     // Opcional: { nombre: "LinkedIn", url: "https://..." }
